@@ -1,0 +1,11 @@
+I'm currently pursuing my Bachelor degree of Computer Engineering at National University of Singapore. I am also a part time Teaching Assistant on Software Engineering, and two advanced Algorithm and Datastructure courses of School of Computing, NUS.
+
+I have been programming for over 7 years, and am passionate about it, especially on problem solving. I love solving algorithm and datastructure related problems, and fond of code optimization and datastructure recreation. I have participated in several competitive programming competitions, such as National Olympiad of Informatics and ICPC Jakarta Regional, and obtained good results.
+
+Also, I have been tutoring advance level algorithm and data structure courses for 2 years in School of Computing, NUS, one of which has an average CAP of 4.5 and only offers to students who have special admission from Steven Halim, the lecturer of the course.
+
+I'm also proficient on software engineering. I have been mentoring students in software engineering courses for 2 years. I guided them to build up a software from user requirement analysis, to architecture design, class design and design patterns, until version control, code quality improvement, defensive coding and dog-fooding.
+
+I'm active on StackOverflow with more than 1600 reputation, mainly contribute to, and absorb knowledge from, C#, Winforms, and algorithm topics.
+
+Link to my Stackoverflow: http://stackoverflow.com/users/2629095/nevets
