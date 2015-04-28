@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I'm Huang Da, who currently pursuing my Bachelor degree of Computer Engineering at National University of Singapore, and will be graduating this May. I am attracted by the Tech Developer Position you are offering.
+
+I believe my technical experience will make me a very competitive candidate for this position. The key strengths that I possess include:
+
+    1. Abundant experience on programming. I have been programming for 7 years, and have experienced and solved various challenges, from hardware to software. The projects I've done include embedded systems, Windows desktop applications, and web applications, and all of them are finished with high quality;
+    2. Strong knowledge on software engineering. I have been mentoring students in software engineering courses for 2 years. I guided them to build up a software from user requirement analysis, to architecture design, class design and design patterns, until version control, code quality improvement, defensive coding and dog-fooding;
+    3. Proficient on algorithm and data structure design, analysis and optimization. I have been tutoring advance level algorithm and data structure courses for 2 years in SoC, NUS, and one of which only offers to students who have CAP > 4.5 and passed a pre-algorithm test.
+
+Please see my resume for additional information on my experience, or check my LinkedIn profile for a more detailed description.
+
+I can be reached anytime via email, or my hand phone, 86552730.
+
+Thank you for your time and consideration. I am looking forward to speaking with you more about this employment opportunity.
