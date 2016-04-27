@@ -1,0 +1,6 @@
+# ignore latex crap
+*.aux
+*.fdb*
+*.fls
+*.log
+*.synctex.gz
